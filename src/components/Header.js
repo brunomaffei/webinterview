@@ -9,10 +9,7 @@ const Header = () => {
         src='http://cdainterview.com/resources/cda-interview-guide.jpg'
         alt='fto central'
       />
-<<<<<<< HEAD
       <div id="mytext">CDA Interview Guide</div>
-=======
->>>>>>> 8386bc0d424209d8fa1b01002a6f9c15b84c7608
       <div className='imgfluid'>
         <br></br>
         <section className='text'>
