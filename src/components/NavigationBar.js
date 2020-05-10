@@ -12,12 +12,8 @@ from 'react-bootstrap'
 const NavigationBar = () =>{
   return(
     <div classsName="Navigation">
-<<<<<<< HEAD
-    <Navbar collapseOnSelect expand="lg" bg="light" variant="light" fixed="top">
-=======
     <Navbar collapseOnSelect expand="lg" bg="white" variant="light" fixed="top">
     <img src="http://cdainterview.com/rw_common/images/bemo-logo2.png" width="167" height="100" alt="Site logo"></img>
->>>>>>> 8386bc0d424209d8fa1b01002a6f9c15b84c7608
     <Navbar.Brand href='/'></Navbar.Brand>
     <Navbar.Toggle aria-controls="responsive-navbar-nav " />
     <Navbar.Collapse id="responsive-navbar-nav">
